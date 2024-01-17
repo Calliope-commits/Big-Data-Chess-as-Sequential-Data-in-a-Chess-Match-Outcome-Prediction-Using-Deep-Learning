@@ -10,7 +10,7 @@ found. In the current era of Artificial
 Intelligence, data mining, as well as machine
 learning techniques, are developed to support
 advanced knowledge discovery from this huge
-quantity of data.
+quantity of data. 
 
 An important source of big data can be game
 data. In the case of chess, it is one of the most
