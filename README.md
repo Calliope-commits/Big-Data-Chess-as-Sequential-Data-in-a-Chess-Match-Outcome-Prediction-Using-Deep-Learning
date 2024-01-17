@@ -11,6 +11,7 @@ Intelligence, data mining, as well as machine
 learning techniques, are developed to support
 advanced knowledge discovery from this huge
 quantity of data.
+
 An important source of big data can be game
 data. In the case of chess, it is one of the most
 played games in the world, gathering millions
@@ -20,12 +21,14 @@ Thus, a huge amount of data is produced and
 represented in various formats, making their
 exploration and analysis faster, easier, and
 more efficient.
+
 In 2021, Rafal Drezewski and Grzegorz Wator
 published a paper describing how they
 developed a model that determines the
 outcome of a game, through two statics data
 representations (algebraic and bitmap): they
 obtained an accuracy of 69%.
+
 In this paper, we present an alternative model
 to determine the outcome of a game with a
 dynamic representation. We had to experiment
@@ -33,6 +36,7 @@ on the Bitmap and Algebraic representations
 first, to have reference values specific to our
 dataset and comparable to the results of the
 dynamic representation.
+
 We obtained an accuracy for the bitmap of
 53% for the Content Model and 58% for the
 Context Match Fusion. The algebraic
