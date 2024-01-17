@@ -46,3 +46,6 @@ dynamic representation showed better results
 than algebraic results but remains inferior to
 the bitmap representation: 52% and 56% for
 the respective models.
+
+## Authors 
+Guillaume Dufau , Samy Megueni , Logan Servant , Signaté Aïssatou
